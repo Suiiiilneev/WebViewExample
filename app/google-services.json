@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679429901563",
+    "project_id": "online-pokies-australia-mobile",
+    "storage_bucket": "online-pokies-australia-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679429901563:android:e84b05bd60c3268b9cf45e",
+        "android_client_info": {
+          "package_name": "com.salvier.online.pokies.austrmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679429901563-u4j1vik4fepcbno9lnpgvngjt51a2r6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN_iZOA9UAXePhXjBjW8LCPxDAeSEvfyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679429901563-u4j1vik4fepcbno9lnpgvngjt51a2r6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
